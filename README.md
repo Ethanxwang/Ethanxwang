@@ -1,4 +1,4 @@
-# Hi, I'm Ethan 👋
+# Hi, I'm Ethan, also known as Wang Shisan 👋
 
 AI Builder. Content Creator. Vibe Coder.
 
