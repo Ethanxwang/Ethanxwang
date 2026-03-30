@@ -10,4 +10,4 @@ Building AI-powered tools for video creation and beyond.
 - 🛠 Indie Dev — 构建 AI 创作工具链
 - ✍️ Content Creator — 小红书 & X
 
-[![X](https://img.shields.io/badge/X-@ethanwang13-000?style=flat&logo=x)](https://x.com/ethanwang13)
+[![X](https://img.shields.io/badge/X-@ethanwang13-000?style=flat&logo=x)]([https://x.com/ethanwang13](https://x.com/WangXinglo32899))
